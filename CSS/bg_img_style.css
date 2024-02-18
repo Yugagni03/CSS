@@ -1,0 +1,32 @@
+#a{
+    height:80px;
+    width:100px;
+    background-color: aqua;
+    display: inline-block;
+  
+}
+#b{
+    height:80px;
+    width:100px;
+    background-color: mediumseagreen;
+    display: inline-block;
+  
+}
+#c{
+    height:80px;
+    width:100px;
+    background-color: lightcoral;
+    display: inline-block;
+   
+}
+#d{
+    height:80px;
+    width:100px;
+    background-color: lightsalmon;
+    display: inline-block;
+ 
+}
+body{
+    background-image: url("cat_photo.jpg");
+    background-size: cover;
+}

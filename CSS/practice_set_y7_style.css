@@ -1,0 +1,13 @@
+div{
+    height:200px;
+    width:200px;
+    border-left:10px solid black;
+    border-top: 10px solid black;
+    border-radius: 50%;
+    animation: load 5s linear 0.5s infinite normal;
+}
+
+@keyframes load{
+    from{transform:rotate(0deg);}
+    to{transform:rotate(360deg);}
+}

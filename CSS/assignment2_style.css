@@ -1,0 +1,24 @@
+#mainTopic{
+    color: blue;
+}
+*{
+    text-align: center;
+}
+h1,h3{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.para{
+    background-color: cornflowerblue;
+    color: white;
+}
+button{
+    background-color: purple;
+    color:azure;
+}
+button:hover{
+    background-color: yellow;
+    color: blue;
+}
+p:nth-of-type(2n){
+    color:yellow;
+}

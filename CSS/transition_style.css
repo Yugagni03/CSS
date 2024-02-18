@@ -1,0 +1,21 @@
+div{
+    height: 100px;
+    width:200px;
+    background-color: blueviolet;
+    border: solid black;
+    transition-property: all;
+    transition-duration: 2s;
+    transition-timing-function: ease-in;
+    transition-delay: 1s;
+
+}
+
+div:hover{
+    background-color: chocolate;
+    color:bisque;
+    font-size: 20px;
+}
+
+div:active{
+    background-color: palevioletred;
+}

@@ -1,0 +1,31 @@
+#face{
+    height: 400px;
+    width: 400px;
+    background-color: orange;
+    border-radius: 50%;
+   
+}
+#mouth{
+    height: 60px;
+    width: 150px;
+    background-color: brown;
+    border-bottom-left-radius: 35px;
+    border-bottom-right-radius: 35px ;
+    transform: translate(130px , 250px);
+}
+.reye, .leye{
+    height: 50px;
+    width: 50px;
+    background-color: black;
+    border-radius: 50%;
+    display: inline-block;
+    transform: translate(100px,50px);
+    position: absolute;
+    left: 30px;
+    top: 50px;
+
+}
+.reye{
+    left: 150px;
+}
+

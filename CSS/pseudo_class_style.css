@@ -1,0 +1,12 @@
+button{
+    background-color: black;
+    color: white;
+}
+button:hover{
+    background-color: coral;
+    color: brown;
+}
+button:active{
+    background-color: bisque;
+    color: crimson;
+}

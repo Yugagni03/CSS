@@ -1,0 +1,19 @@
+div{
+    height: 100px;
+    width: 150px;
+    border:2px solid black;
+    border-radius: 10%;
+    padding:12px  34px 23px 76px;
+
+}
+body{
+    border-width: 20px;
+    border-style: solid;
+    border-color: brown;
+    border-radius: 67px;
+    padding-left: 23px;
+    padding-right: 23px;
+    padding-top: 23px;
+    padding-bottom: 23px;
+    margin-top: 34px;
+}

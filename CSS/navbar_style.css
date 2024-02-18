@@ -1,0 +1,35 @@
+div{
+    height: 60px;
+    width: 1500px;
+    background-color: black;
+    border-left: 5px;
+    border-right: 5px;
+    border-top: 5px;
+    border-bottom: 5px;
+    border-color: teal;
+}
+#aa{
+    font-size: 25px;
+    color: #f08804;
+    text-decoration: none;
+    padding-right: 200px;
+}
+#account{
+    
+    color: rgb(236, 231, 231);
+    text-decoration: none;
+    padding-right: 200px;
+}
+#cart{
+    color:white;
+    text-decoration: none;
+    padding-right: 200px;
+}
+#contact{
+    color:white;
+    text-decoration: none;
+    padding-right: 200px;
+}
+button{
+   background-color:#f08804;
+}

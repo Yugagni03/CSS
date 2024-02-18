@@ -1,0 +1,23 @@
+div{
+    height:200px;
+    width:500px;
+    background-color: black;
+    display: flex;
+    justify-content:space-evenly;
+}
+#a{
+    color: bisque;
+   text-decoration: none;
+}
+#b{
+    color: bisque;
+    text-decoration: none;
+}
+#c{
+    color: bisque;
+    text-decoration: none;
+}
+#d{
+    color: bisque;
+    text-decoration: none;
+}

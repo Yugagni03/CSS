@@ -1,0 +1,31 @@
+div{
+    height: 300px;
+    width: 100px;
+    background-color: black;
+    border-style: solid;
+
+}
+#aa{
+    text-align: center;
+    height: 80px;
+    width: 80px;
+    background-color: red;
+    border-style: solid;
+    border-radius: 50%;
+}
+#bb{
+    text-align: center;
+    height: 80px;
+    width: 80px;
+    background-color: yellow;
+    border-style: solid;
+    border-radius: 50%;
+}
+#cc{
+    text-align: center;
+    height: 80px;
+    width: 80px;
+    background-color: green;
+    border-style: solid;
+    border-radius: 50%;
+}
